@@ -14,10 +14,10 @@ body {
 .box {
   position: absolute;
   top: 300px;
-  width: 500px;
-  height: 300px;
+  width: 550px;
+  height: 350px;
   background-size: cover;
-  background-image: url("../images/car1.jpg");
+  background-image: url("../images/car1.png");
   animation-name: car1;
   animation-delay: 1s;
   animation-duration: 10s;
@@ -47,7 +47,7 @@ body {
   width: 100px;
   height: 100px;
   animation-name: sun;
-  background-image: url("../images/sun.jpg");
+  background-image: url("../images/sun.png");
   background-size: cover;
   animation-delay: 0.5ms;
   animation-iteration-count: infinite;
